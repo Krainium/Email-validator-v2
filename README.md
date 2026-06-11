@@ -1,6 +1,6 @@
 # Email Validator V2
 
-  **Live:** [https://email-validator-v2-seven.vercel.app/](https://email-validator-v2-seven.vercel.app/)
+  **Live:** ValiMail V2 - [https://email-validator-v2-seven.vercel.app/](https://email-validator-v2-seven.vercel.app/)
 
   Checks if email addresses are real and deliverable. Paste one in or drop a whole list — you get back whether the inbox exists, if it's disabled, and if it's a throwaway address.
 
