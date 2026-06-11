@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""emailchk — Bulk email checker via ychecker.com (sonjj API)
+"""email-validator — Bulk email checker via ychecker.com (sonjj API)
    Option 1: API key mode  — full endpoints, credit-based
    Option 2: Free mode     — JWT relay, 100 checks/day/IP, no key needed
 """
