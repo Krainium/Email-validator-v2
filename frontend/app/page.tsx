@@ -596,7 +596,7 @@ export default function ValiMail() {
       {/* Footer */}
       <footer className="border-t border-[var(--border)] py-10 text-center text-xs text-[var(--text-subtle)]">
         ValiMail V2 — Modern frontend for the Krainium Email-validator-V2 engine.<br />
-        Backend must be running: <span className="font-mono text-emerald-400">cd /root/Email-validator-V2 && ./start-backend.sh</span>
+        source code: <a href="https://github.com/Krainium/Email-validator-V2" className="text-emerald-400 hover:underline">github.com/Krainium/Email-validator-V2</a>
       </footer>
     </div>
   );
