@@ -1,5 +1,7 @@
 # Email Validator V2
 
+  **Live:** [https://email-validator-v2-krainiums-projects.vercel.app](https://email-validator-v2-krainiums-projects.vercel.app)
+
   Checks if email addresses are real and deliverable. Paste one in or drop a whole list — you get back whether the inbox exists, if it's disabled, and if it's a throwaway address.
 
   Runs without any API key (100 free checks per day per IP via ychecker.com). Add a sonjj.com key to unlock unlimited checks and provider-specific lookups for Gmail and Outlook.
@@ -42,7 +44,9 @@
 
   ## Deployment
 
-  The frontend deploys to Vercel. Set `BACKEND_URL` in your Vercel project environment variables to point at your hosted Python backend (Railway, Render, Fly, etc.).
+  The frontend is deployed on Vercel at https://email-validator-v2-krainiums-projects.vercel.app
+
+  Set `BACKEND_URL` in your Vercel project environment variables to point at your hosted Python backend (Railway, Render, Fly, etc.).
 
   ## Stack
 
